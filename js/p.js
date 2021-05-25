@@ -1,0 +1,1 @@
+{let e=i$('wrap'),l=Ele('div','wrap');CONTENT.filter(e=>e.l.startsWith('/p/')).forEach(e=>l.append(Item(e)));let a=Ele('div','box board flex-R');a.ap(Ele('h5','bbl').html(Icon('board')+'分类')),e.append(l,a)}
