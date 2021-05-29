@@ -1,1 +1,1 @@
-var APP_ID='pz48k2JqRsnuVf2z0eREPWBx-MdYXbMMI',APP_KEY='cHYN2jvuXSpDtcT8FLl7IIBs';function $(e){return document.getElementById(e)}AV.init({appId:APP_ID,appKey:APP_KEY,serverURLs:'https://api.vicklleall.com'});const CDN_src='//cdn.jsdelivr.net/gh/vicklleall/website@g3dyb/game/CloudIWanna/';
+var APP_ID='pz48k2JqRsnuVf2z0eREPWBx-MdYXbMMI',APP_KEY='cHYN2jvuXSpDtcT8FLl7IIBs';function $(e){return document.getElementById(e)}AV.init({appId:APP_ID,appKey:APP_KEY,serverURLs:'https://api.vicklleall.com'});const CDN_src='//cdn.jsdelivr.net/gh/vicklleall/website@g3isv/game/CloudIWanna/';
